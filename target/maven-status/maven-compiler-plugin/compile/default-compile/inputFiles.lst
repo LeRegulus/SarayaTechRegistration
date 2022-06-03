@@ -1,0 +1,10 @@
+/home/alassane/Desktop/StudentRegistration/src/main/java/service/ServletService.java
+/home/alassane/Desktop/StudentRegistration/src/main/java/servlets/DeleteStudentServlet.java
+/home/alassane/Desktop/StudentRegistration/src/main/java/servlets/WelcomeServlet.java
+/home/alassane/Desktop/StudentRegistration/src/main/java/servlets/StudentServlet.java
+/home/alassane/Desktop/StudentRegistration/src/main/java/servlets/LoginServlet.java
+/home/alassane/Desktop/StudentRegistration/src/main/java/servlets/UpdateStudentServlet.java
+/home/alassane/Desktop/StudentRegistration/src/main/java/model/Student.java
+/home/alassane/Desktop/StudentRegistration/src/main/java/filter/AuthFilter.java
+/home/alassane/Desktop/StudentRegistration/src/main/java/servlets/LogoutServlet.java
+/home/alassane/Desktop/StudentRegistration/src/main/java/model/Admin.java
